@@ -1,6 +1,6 @@
 # Pathway Legal Navigator
 
-This repository showcases **Pathway Legal Navigator**, developed by Team-91 during **Inter IIT Tech Meet 13.0**. It is an agentic Retrieval-Augmented Generation (RAG) system tailored for the legal domain, designed to assist legal professionals with case analysis by retrieving and contextualizing relevant legal precedents and documents.
+This repository showcases **Pathway Legal Navigator**, developed by Team-91 during **Inter IIT Tech Meet 13.0**. It is an agentic Retrieval-Augmented Generation (RAG) system tailored for the legal domain, designed to assist legal professionals with case analysis by retrieving and contextualizing relevant legal precedents and documents. 
 
 ## Repository Structure
 - **`code/`**: Contains the code to run the RAG application. Refer to the `README.md` inside for detailed instructions.
